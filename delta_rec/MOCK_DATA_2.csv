@@ -16,14 +16,11 @@ id,first_name,last_name,email,color,Home Address,City,State,Zip Code,Date
 15,Christoforo,Ferrino,cferrinoe@apache.org,Green,873 Buena Vista Way,Bethesda,Maryland,20892,8/20/2017
 16,Anallese,Jalland,ajallandf@biglobe.ne.jp,Red,602 Union Plaza,Concord,California,94522,8/27/2017
 17,Ashley,Ricker,arickerg@google.it,Orange,4 Tomscot Place,Evansville,Indiana,47719,12/5/2017
-18,Bernard,Screas,bscreash@unblog.fr,Aquamarine,6 Mayfield Center,Columbia,South Carolina,29220,2/16/2018
-19,Lyle,Wheeldon,lwheeldoni@pcworld.com,Pink,38905 Sloan Street,Wichita,Kansas,67220,6/29/2017
 20,Tonye,Parmenter,tparmenterj@blogspot.com,Indigo,0965 Melody Point,Falls Church,Virginia,22047,2/6/2018
 21,Abraham,Dullard,adullardk@livejournal.com,Fuscia,03 Moland Pass,Battle Creek,Michigan,49018,2/13/2018
 22,Darbie,Prescott,dprescottl@hubpages.com,Crimson,7980 Fairview Hill,Fort Pierce,Florida,34981,3/5/2018
 23,Ulrike,Pawellek,upawellekm@ucoz.ru,Green,18 Manitowish Pass,Shawnee Mission,Kansas,66276,12/16/2017
 24,Daniella,Marikhin,dmarikhinn@elpais.com,Indigo,78989 1st Crossing,Saint Cloud,Minnesota,56398,6/25/2017
-25,Lynnelle,Bowmaker,lbowmakero@nationalgeographic.com,Orange,34 Dapin Circle,Philadelphia,Pennsylvania,19172,5/16/2017
 26,Kylie,Smallwood,ksmallwoodp@cbslocal.com,Crimson,488 Declaration Crossing,Ocala,Florida,34474,3/10/2018
 27,Beret,Schops,bschopsq@nba.com,Crimson,62 Shoshone Center,Orlando,Florida,32803,3/6/2018
 28,Rosalia,Dikles,rdiklesr@cyberchimps.com,Fuscia,19 Corry Way,Harrisburg,Pennsylvania,17105,8/17/2017
@@ -81,7 +78,6 @@ id,first_name,last_name,email,color,Home Address,City,State,Zip Code,Date
 79,Nathan,Bodycomb,nbodycomb26@shinystat.com,Indigo,00186 Donald Terrace,Petaluma,California,94975,1/6/2018
 80,Elissa,Worge,eworge27@adobe.com,Turquoise,51 Charing Cross Point,San Jose,California,95118,6/13/2017
 81,Clementia,Apdell,capdell28@businesswire.com,Indigo,02 Hermina Junction,San Diego,California,92186,5/11/2018
-82,Maurene,Goligly,mgoligly29@zdnet.com,Aquamarine,19667 Leroy Plaza,Fresno,California,93709,7/2/2017
 83,Heda,Copland,hcopland2a@topsy.com,Turquoise,99 Becker Alley,Northridge,California,91328,11/7/2017
 84,Charmaine,Targe,ctarge2b@phoca.cz,Purple,8 Dahle Street,Petaluma,California,94975,11/9/2017
 85,Michel,Pic,mpic2c@earthlink.net,Indigo,10008 Thierer Way,Glendale,California,91205,7/17/2017
