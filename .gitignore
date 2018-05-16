@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+delta_rec/\.ipynb_checkpoints/
+
+\.pytest_cache/v/cache/
+
+docs/\.ipynb_checkpoints/
